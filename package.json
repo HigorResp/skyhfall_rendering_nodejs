@@ -1,5 +1,5 @@
 {
-  "name": "videos",
+  "name": "conversao_videos",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -7,6 +7,6 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "",
+  "author": "Pedro Higor de Sousa",
   "license": "ISC"
 }
